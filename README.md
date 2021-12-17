@@ -20,8 +20,8 @@
 - 🌱 I’m currently learning **CSS-Django rest framework**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-<!-- 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
+
+- 👨‍💻 I am currently reading **Django for beginners 3.0** 
 
 - 📫 How to reach me **suleimanhesham99@gmail.com**
 
