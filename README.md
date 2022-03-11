@@ -15,13 +15,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CRM](https://suleiman-crm.herokuapp.com/)**
+- 🔭 I’m currently working on **[Fritill-Clinic RMS](https://github.com/Suleiman99Hesham/Fritill_Clinic_RMS)**
 
-- 🌱 I’m currently learning **CSS-Django rest framework**
+- 🌱 I’m currently learning **Docker - Unit testing**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 I am currently reading **Django for beginners 3.0** 
+- 👨‍💻 I am currently reading **Django for professionals 3.0** 
 
 - 📫 How to reach me **suleimanhesham99@gmail.com**
 
