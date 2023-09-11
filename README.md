@@ -15,17 +15,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Fritill-Clinic RMS](https://github.com/Suleiman99Hesham/Fritill_Clinic_RMS)**
+- 🔭 I’m currently working on **[Paymob Solutions](https://paymob.com/en/online-payment?utm_source=adwords&utm_medium=search_camp&utm_campaign=en_camp&gad=1&gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYT7JANgGjU0pLo-43QHYFLRGJKrwKFSZZoZIPd-LOO1H7YiOthhzd8aAgJ-EALw_wcB)**
 
-- 🌱 I’m currently learning **Docker - Unit testing**
+- 🌱 I’m currently learning **System Design - Microservices**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 I am currently reading **Django for professionals 3.0** 
+- 👨‍💻 I am currently reading **Clean Architecture** 
 
 - 📫 How to reach me **suleimanhesham99@gmail.com**
 
-- ⚡ Fun fact **I play football and go to the GYM very often.**
+- ⚡ Fun fact **I often play football and go to the gym.**
 
 ## 🚀 Languages and Tools:
 
