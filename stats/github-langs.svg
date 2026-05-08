@@ -1,0 +1,7 @@
+<svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="120" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <text x="150" y="55" fill="#8B949E" font-size="13" font-family="Segoe UI, sans-serif"
+        text-anchor="middle">Languages will appear after</text>
+  <text x="150" y="75" fill="#8B949E" font-size="13" font-family="Segoe UI, sans-serif"
+        text-anchor="middle">the first workflow run.</text>
+</svg>

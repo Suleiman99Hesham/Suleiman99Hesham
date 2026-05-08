@@ -9,19 +9,19 @@
     , I'm Suleiman
 </h1>
 <h3 align="center">
-    Fresh Software Developer who is trying to learn things in depth and increasing my consciousness of Software industry, intersted in Python and Django.
+    Backend Software Engineer with 4+ years of experience, passionate about building scalable and distributed systems. Specialized in Python, Django, and fintech integrations.
 </h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Paymob Solutions](https://paymob.com/en/online-payment?utm_source=adwords&utm_medium=search_camp&utm_campaign=en_camp&gad=1&gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYT7JANgGjU0pLo-43QHYFLRGJKrwKFSZZoZIPd-LOO1H7YiOthhzd8aAgJ-EALw_wcB)**
+- 🔭 I'm currently working at **[Holouly](https://holouly.io/)**
 
-- 🌱 I’m currently learning **System Design - Microservices**
+- 🌱 I'm currently focusing on **Advanced Databases, System Design, Distributed Systems, Microservices, and FastAPI**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I'm looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 I am currently reading **Clean Architecture** 
+- 👨‍💻 I am currently reading **Designing Data-Intensive Applications** 
 
 - 📫 How to reach me **suleimanhesham99@gmail.com**
 
@@ -36,17 +36,32 @@
     <a style="padding-right:8px;"href="https://www.djangoproject.com/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/django.png"/>
     </a>
+    <a style="padding-right:8px;" href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="48" height="48"/>
+    </a>
     <a style="padding-right:8px;"href="https://www.postgresql.org/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-    </a>
-    <a style="padding-right:8px;" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjm-deRxeL0AhWHMBQKHWB9AF8QFnoECAwQAQ&url=https%3A%2F%2Faws.amazon.com%2F&usg=AOvVaw10TqNx6EBJNugFGyuTZwOa" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
     </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank">
         <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     </a>
-    <a style="padding-right:8px;"href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjG6OTKxuL0AhU8A2MBHYNZCF8QFnoECBAQAQ&url=https%3A%2F%2Fwww.heroku.com%2F&usg=AOvVaw1V4lhSv6mb_lZj6UUCUXpS" target="_blank">
-        <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+    <a style="padding-right:8px;" href="https://redis.io/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/redis.png"/>
+    </a>
+    <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+    </a>
+    <a style="padding-right:8px;" href="https://nginx.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/nginx.png"/>
+    </a>
+    <a style="padding-right:8px;" href="https://www.elastic.co/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="48" height="48"/>
+    </a>
+    <a style="padding-right:8px;" href="https://aws.amazon.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+    </a>
+    <a style="padding-right:8px;" href="https://cloud.google.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
     </a>
     <a href="#" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -72,33 +87,24 @@
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     </a> 
-    <!-- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-    <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
-    <!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  --> 
-    <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suleiman99Hesham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suleiman's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Suleiman99Hesham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-    <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suleiman99Hesham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Suleiman99Hesham">
+    <img alt="Suleiman's Github Stats" src="stats/github-stats.svg" />
 </a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-    <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleiman99Hesham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Suleiman99Hesham">
+    <img alt="Suleiman's Top Languages" src="stats/github-langs.svg" />
 </a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -106,13 +112,6 @@
 
 <br/>
 <br/>
-<!-- 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph">
-    <img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Suleiman99Hesham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
-
-<br/>
-<br/> -->
 
 ## Connect with me:
 <p align="center">
@@ -122,9 +121,6 @@
     <a href = "https://twitter.com/suleimanhesham1">
         <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
     </a>
-    <a href = "https://www.instagram.com/suleiman_hesham/">
-        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-    </a>
     <a href="https://leetcode.com/Suleiman_hesham/">
     	<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
     </a>
@@ -133,9 +129,6 @@
     </a>
     <a href="mailto:suleimanhesham99@gmail.com">
     	<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-    </a>
-    <a href="https://www.facebook.com/suleiman.hesham.99">
-    	<img src="https://img.icons8.com/fluency/48/000000/facebook.png"/>
     </a>
 </p>
 
