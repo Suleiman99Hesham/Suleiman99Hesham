@@ -101,10 +101,10 @@
 
 <br/>
 <a href="https://github.com/Suleiman99Hesham">
-    <img alt="Suleiman's Github Stats" src="stats/github-stats.svg" />
+    <img alt="Suleiman's Github Stats" src="https://raw.githubusercontent.com/Suleiman99Hesham/Suleiman99Hesham/stats/github-stats.svg" />
 </a>
 <a href="https://github.com/Suleiman99Hesham">
-    <img alt="Suleiman's Top Languages" src="stats/github-langs.svg" />
+    <img alt="Suleiman's Top Languages" src="https://raw.githubusercontent.com/Suleiman99Hesham/Suleiman99Hesham/stats/github-langs.svg" />
 </a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
