@@ -39,6 +39,9 @@ jobs:
           cp stats/github-stats.svg /tmp/github-stats.svg
           cp stats/github-langs.svg /tmp/github-langs.svg
 
+          # Discard working tree changes so git allows the branch switch
+          git restore stats/
+
           # Checkout or create the unprotected stats branch
           git fetch origin
           if git show-ref --quiet refs/remotes/origin/stats; then
